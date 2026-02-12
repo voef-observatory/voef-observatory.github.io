@@ -8,7 +8,7 @@
 
 The **Vietnam Observatory on Economics and Finance (VOEF)** is an academic research initiative bringing together economists and finance scholars whose work focuses on Vietnam.
 
-VOEF aims to promote high‑quality, policy‑relevant, and internationally visible research on Vietnam’s economy and financial system. The Observatory serves as a platform for collaboration, knowledge dissemination, and engagement with policymakers, institutions, and the broader public.
+VOEF aims to promote high‑quality, policy‑relevant, and internationally visible research on economics and finance, with a special attention on the Vietnamese economy and its financial system. The Observatory serves as a platform for collaboration, knowledge dissemination, and engagement with policymakers, institutions, and the broader public.
 
 ---
 
@@ -34,8 +34,8 @@ VOEF aims to promote high‑quality, policy‑relevant, and internationally visi
 
 ## Contact
 
-For inquiries, collaboration, or contributions, please contact:  
-📧 **contact@voef-research.org** *(placeholder)*
+For inquiries, collaboration, or contributions, please contact:  Phu Nguyen-Van
+📧 **pnguyenvan(@)parisnanterre.fr** *(placeholder)*
 
 ---
 
