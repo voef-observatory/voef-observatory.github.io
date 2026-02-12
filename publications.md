@@ -6,10 +6,99 @@ This page highlights selected academic publications by members and affiliates of
 
 ## Journal Articles
 
-- **Author(s)** (Year). *Title of the paper*. **Journal Name**, Volume(Issue), pages.  
-  — Short description of the contribution and its relevance to Vietnam.
+**Forthcoming**
 
-- **Author(s)** (Year). *Title of the paper*. **Journal Name**, Volume(Issue), pages.
+- **Pham, N.-S.**, Toda, A. A. (2026). Comment on “Asset Bubbles and Overlapping Generations”, *Econometrica*.
+
+**2026**
+
+- **Le Van, C.**, **N.-S. Pham**, **T.K.C. Pham**, and B. Tran-Nam (2025), “Governance, Productivity and Economic Development”, *Journal of Public Economic Theory* 28: 1-12. https://doi.org/10.1111/jpet.70099.
+
+**2025**
+
+- Boun My K., Nguyen-Quang H., **Nguyen-Van P.**, **Pham T.K.C.**, Stenger A., Tiet T., To-The N. (2025), "Farmers’ preferences toward organic certification scheme: Evidence from a discrete choice experiment in Northern Vietnam", World Development Sustainability, Volume 6, June 2025, 100203. https://doi.org/10.1016/j.wds.2025.100203
+- Stefano Bosi, **Cuong Le Van**, Giang Phung (2025), Economic growth with brown or green capital, *Journal of Mathematical Economics*, Volume 117, 103101. https://doi.org/10.1016/j.jmateco.2025.103101.
+- 
+
+**2024**
+
+- Bloise, G., **Le Van, C.** and Vailakis, Y. (2024), Do not Blame Bellman: It Is Koopmans' Fault. *Econometrica*, 92: 111-140. https://doi.org/10.3982/ECTA20386
+- G. Bloise, **C. Le Van**, Y. Vailakis (2024), An approximation approach to dynamic programming with unbounded returns, *Journal of Mathematical Economics*, Volume 111, 102954. https://doi.org/10.1016/j.jmateco.2024.102954.
+- Stefano Bosi, Carmen Camacho, **Cuong Le Van** (2024), A model of growth with living capital, *Journal of Mathematical Economics*, Volume 113, 103018. https://doi.org/10.1016/j.jmateco.2024.103018.
+- Pham, H.H., **Pham, N.-S.** (2024). Effects of Wariness on Economic Growth in Overlapping Generations Models. *Journal of Mathematical Economics*, Vol. 115, 103060.
+- **Nguyen-Huu, T.T.**, **Pham N.-S.** (2024). FDI spillovers, New Industry Development, and Economic Growth. *Journal of Public Economic Theory*, Volume26, Issue 1, e12670. 
+
+
+**2023**
+
+- Guillaumont P., **Nguyen-Van P.**, **Pham T.K.C.**, Wagner L. (2023), "Equal opportunity and poverty reduction: How should aid be allocated?", Review of Development Economics, 27(1), 550-607.
+- **Cuong Le Van**, **Ngoc-Sang Pham**, **Thi Kim Cuong Pham** (2023), Effects of development aid (grants and loans) on the economic dynamics of the recipient country, *Mathematical Social Sciences*, Volume 125, Pages 101-112. https://doi.org/10.1016/j.mathsocsci.2023.06.003.
+
+**2022**
+
+- Boun My K., **Nguyen-Van P.**, **Pham T.K.C.**, Stenger A., Tiet T., To-The N. (2022), "Drivers of organic farming: Lab-in-the-field evidence of the role of social comparison and information nudge in networks in Vietnam", *Ecological Economics*,  196, 107401.
+- Le, T., **Le Van, C.**, **Pham, N.-S.**,  Saglam, C. (2022). A Direct Proof of the Gale–Nikaido–Debreu Lemma Using Sperner’s Lemma, *Journal of Optimization Theory and Applications* 194, 1072-1080.
+- Bosi, S., **Le Van, C.**, **Pham, N.-S.** (2022). Real indeterminacy and dynamics of asset price bubbles in general equilibrium, *Journal of Mathematical Economics*, Volume 100, 102651. 
+
+
+**2021**
+
+- **Nguyen-Van P.**, Stenger A., Tiet T. (2021), "Social incentive factors in interventions promoting sustainable behaviors: A meta-analysis", *PLOS ONE*, 16(12): e0260932.
+
+Lawson L.A., **Nguyen-Van P.** (2021), "Institutions and geography: A "two sides of the same coin" story of primary energy use in Sub-Saharan Africa", *The Energy Journal* 42(2), 223-252.
+
+Blayac T., Dubois D., Duchêne S., **Nguyen-Van P.**, Ventelou B., Willinger M. (2021), "Population preferences for inclusive COVID-19 policy responses", *The Lancet Public Health* 6(1), e9.
+
+**2020**
+
+- Dubois D., Farolfi S., **Nguyen-Van P.**, Rouchier J. (2020), "Contrasting effects of information sharing on CPR extraction behaviour: Experimental findings", *PLOS ONE*, 15(10): e0240212.
+- Lampach N., **Nguyen-Van P.**, To-The N. (2020), "Robustness analysis of organic technology adoption: Evidence from Northern Vietnamese tea production", *European Review of Agricultural Economics*, 47(2), 529-557.
+- **Pham, N.-S.**, **Pham, T.K.C.** (2020). Effects of foreign aid on the recipient country’s economic growth, *Journal of Mathematical Economics*, Vol. 86, 52-68.
+
+**2019**
+
+- Dicharry B., **Nguyen-Van P.**, **Pham T.K.C.** (2019), "`The winner takes it all' or a story of the optimal allocation of the European Cohesion Fund", *European Journal of Political Economy* 59, 385-399.
+- **Le Van C.**, **Nguyen-Van P.**, Barbier-Gauchard A., Le D.A. (2019), "Government expenditure, external and domestic public debt, and economic growth", *Journal of Public Economic Theory* 21(1), 116-134.
+- **Nguyen-Van P.**, Poiraud C., N. To-The (2017), "Modeling farmers' decisions on tea varieties: A multinomial logit analysis", *Agricultural Economics* 48(3), 291-299.
+
+**2018**
+
+- Bosi, S., **Le Van, C.**, **Pham, N.-S.** (2018). Intertemporal equilibrium with heterogeneous agents, endogenous dividends and collateral constraints, *Journal of Mathematical Economics*, vol. 76, 1-20.
+- Bosi, S., Ha-Huy, T., **Le Van, C.**, Pham, C.-T., **Pham, N.-S.** (2018). Financial bubbles and capital accumulation in altruistic economies, *Journal of Mathematical Economics*, vol. 75, 125-139.
+
+**2017**
+
+- Bosi, S., **Le Van, C.**, **Pham, N.-S.** (2017). Asset bubbles and efficiency in a generalized two-sector model. *Mathematical Social Sciences*, vol. 88, 37-48.
+- **Thi Kim Cuong Pham**, Mark Mcgillivray (2017), Reforming performance aid allocation practice, *World Development*, 90, pp.3. 
+
+**2016**
+
+- **Le Van, C.**, **Pham, N.-S.** (2016). Intertemporal equilibrium with financial asset and physical capital. *Economic Theory*, vol. 62, 155-199.
+
+**2013**
+
+- **Nguyen-Van P.**, **Pham T.K.C.** (2013), "Endogenous fiscal policies, environmental quality, and status-seeking behavior", *Ecological Economics* 88, 32-40.
+
+**2010**
+
+- **Nguyen-Van P.** (2010), "Energy consumption and income: A semiparametric panel data analysis", *Energy Economics* 32, 557-563.
+
+**2007**
+
+- **Nguyen-Van P.**, Azomahou T. (2007), "Nonlinearities and heterogeneity in environmental quality: An empirical analysis of deforestation", *Journal of Development Economics*, 84(1), 291-309.
+
+**2006**
+
+- Azomahou T., Laisney F., **Nguyen-Van P.** (2006), "Economic development and CO2 emissions: A nonparametric panel approach", *Journal of Public Economics* 90(6-7), 1347-1363.
+
+**2005**
+
+- **Nguyen-Van P.** (2005), "Distribution dynamics of CO2 emissions", *Environmental and Resource Economics* 32(4), 495-508.
+
+**2004**
+
+- **Nguyen-Van P.**, Laisney F., Kaiser U. (2004), "The performance of German firms in the business-related services sectors: A dynamic analysis", *Journal of Business and Economic Statistics* 22(3), 274-295.
+- Cochard F., **Nguyen-Van P.**, Willinger M. (2004), "Trusting behavior in a repeated investment game", *Journal of Economic Behavior and Organization* 55(1), 31-44.
 
 ---
 
