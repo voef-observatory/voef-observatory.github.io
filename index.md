@@ -1,6 +1,6 @@
 # Vietnam Observatory on Economics and Finance (VOEF)
 
-**Advancing economic and financial research by Vietnam‑focused economists**
+*Advancing economic and financial research by Vietnam‑focused economists*
 
 ---
 
