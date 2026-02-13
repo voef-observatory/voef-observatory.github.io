@@ -1,22 +1,20 @@
 # Selected Publications
 
-This page highlights selected academic publications by members and affiliates of the **Vietnam Observatory on Economics and Finance (VOEF)**.
+This page highlights selected academic publications by members of the **Vietnam Observatory on Economics and Finance (VOEF)**. These publications appear in top general‑interest, top field journals and leading international peer‑reviewed journals in economics and finance, as well as high‑impact multidisciplinary outlets. 
 
 ---
 
-## Journal Articles
-
 **Forthcoming**
 
-- **Pham, N.-S.**, Toda, A. A. (2026). Comment on “Asset Bubbles and Overlapping Generations”, *Econometrica*.
+- **Pham, N.-S.**, Toda, A. A. Comment on “Asset Bubbles and Overlapping Generations”, *Econometrica*.
 
 **2026**
 
-- **Le Van, C.**, **N.-S. Pham**, **T.K.C. Pham**, and B. Tran-Nam (2025), “Governance, Productivity and Economic Development”, *Journal of Public Economic Theory* 28: 1-12. https://doi.org/10.1111/jpet.70099.
+- **Le Van, C.**, **N.-S. Pham**, **T.K.C. Pham**, and B. Tran-Nam (2025), “Governance, Productivity and Economic Development”, *Journal of Public Economic Theory* 28, 1-12. https://doi.org/10.1111/jpet.70099.
 
 **2025**
 
-- Boun My K., Nguyen-Quang H., **Nguyen-Van P.**, **Pham T.K.C.**, Stenger A., Tiet T., To-The N. (2025), "Farmers’ preferences toward organic certification scheme: Evidence from a discrete choice experiment in Northern Vietnam", World Development Sustainability, Volume 6, June 2025, 100203. https://doi.org/10.1016/j.wds.2025.100203
+- Boun My K., Nguyen-Quang H., **Nguyen-Van P.**, **Pham T.K.C.**, Stenger A., Tiet T., To-The N. (2025), "Farmers’ preferences toward organic certification scheme: Evidence from a discrete choice experiment in Northern Vietnam", *World Development Sustainability*, Volume 6, 100203. https://doi.org/10.1016/j.wds.2025.100203
 - Stefano Bosi, **Cuong Le Van**, Giang Phung (2025), Economic growth with brown or green capital, *Journal of Mathematical Economics*, Volume 117, 103101. https://doi.org/10.1016/j.jmateco.2025.103101.
 - 
 
@@ -37,20 +35,21 @@ This page highlights selected academic publications by members and affiliates of
 **2022**
 
 - Boun My K., **Nguyen-Van P.**, **Pham T.K.C.**, Stenger A., Tiet T., To-The N. (2022), "Drivers of organic farming: Lab-in-the-field evidence of the role of social comparison and information nudge in networks in Vietnam", *Ecological Economics*,  196, 107401.
-- Le, T., **Le Van, C.**, **Pham, N.-S.**,  Saglam, C. (2022). A Direct Proof of the Gale–Nikaido–Debreu Lemma Using Sperner’s Lemma, *Journal of Optimization Theory and Applications* 194, 1072-1080.
+- Le, T., **Le Van, C.**, **Pham, N.-S.**,  Saglam, C. (2022). A Direct Proof of the Gale–Nikaido–Debreu Lemma Using Sperner’s Lemma, *Journal of Optimization Theory and Applications*, 194, 1072-1080.
 - Bosi, S., **Le Van, C.**, **Pham, N.-S.** (2022). Real indeterminacy and dynamics of asset price bubbles in general equilibrium, *Journal of Mathematical Economics*, Volume 100, 102651. 
 
 
 **2021**
 
+- Stefano Bosi, Patrice Fontaine, **Cuong Le Van** (2021), Long-run equilibrium in international assets and goods markets: Why is the law of one price required?, *Journal of Economic Behavior & Organization*, Volume 190, Pages 891-904. https://doi.org/10.1016/j.jebo.2021.08.023.
 - **Nguyen-Van P.**, Stenger A., Tiet T. (2021), "Social incentive factors in interventions promoting sustainable behaviors: A meta-analysis", *PLOS ONE*, 16(12): e0260932.
-
-Lawson L.A., **Nguyen-Van P.** (2021), "Institutions and geography: A "two sides of the same coin" story of primary energy use in Sub-Saharan Africa", *The Energy Journal* 42(2), 223-252.
-
-Blayac T., Dubois D., Duchêne S., **Nguyen-Van P.**, Ventelou B., Willinger M. (2021), "Population preferences for inclusive COVID-19 policy responses", *The Lancet Public Health* 6(1), e9.
+- Lawson L.A., **Nguyen-Van P.** (2021), "Institutions and geography: A "two sides of the same coin" story of primary energy use in Sub-Saharan Africa", *The Energy Journal* 42(2), 223-252.
+- Blayac T., Dubois D., Duchêne S., **Nguyen-Van P.**, Ventelou B., Willinger M. (2021), "Population preferences for inclusive COVID-19 policy responses", *The Lancet Public Health* 6(1), e9.
 
 **2020**
 
+-  Ha-Huy T, **Le Van C**, Nguyen T-D-H. (2020), Optimal growth when consumption takes time. *Journal of Public Economic Theory*, 22, 1442-1461. https://doi.org/10.1111/jpet.12467
+- My Dam, Thai Ha-Huy, **Cuong Le Van**, Thi Tuyet Mai Nguyen (2020), Economic dynamics with renewable resources and pollution, *Mathematical Social Sciences*, Volume 108, Pages 14-26. https://doi.org/10.1016/j.mathsocsci.2020.08.002
 - Dubois D., Farolfi S., **Nguyen-Van P.**, Rouchier J. (2020), "Contrasting effects of information sharing on CPR extraction behaviour: Experimental findings", *PLOS ONE*, 15(10): e0240212.
 - Lampach N., **Nguyen-Van P.**, To-The N. (2020), "Robustness analysis of organic technology adoption: Evidence from Northern Vietnamese tea production", *European Review of Agricultural Economics*, 47(2), 529-557.
 - **Pham, N.-S.**, **Pham, T.K.C.** (2020). Effects of foreign aid on the recipient country’s economic growth, *Journal of Mathematical Economics*, Vol. 86, 52-68.
@@ -58,6 +57,8 @@ Blayac T., Dubois D., Duchêne S., **Nguyen-Van P.**, Ventelou B., Willinger M. 
 **2019**
 
 - Dicharry B., **Nguyen-Van P.**, **Pham T.K.C.** (2019), "`The winner takes it all' or a story of the optimal allocation of the European Cohesion Fund", *European Journal of Political Economy* 59, 385-399.
+- **Cuong Le Van**, Paulina Navrouzoglou, Yiannis Vailakis (2019), On endogenous formation of price expectations,
+*Games and Economic Behavior*, Volume 115, Pages 436-458. https://doi.org/10.1016/j.geb.2019.03.004
 - **Le Van C.**, **Nguyen-Van P.**, Barbier-Gauchard A., Le D.A. (2019), "Government expenditure, external and domestic public debt, and economic growth", *Journal of Public Economic Theory* 21(1), 116-134.
 - **Nguyen-Van P.**, Poiraud C., N. To-The (2017), "Modeling farmers' decisions on tea varieties: A multinomial logit analysis", *Agricultural Economics* 48(3), 291-299.
 
@@ -65,15 +66,22 @@ Blayac T., Dubois D., Duchêne S., **Nguyen-Van P.**, Ventelou B., Willinger M. 
 
 - Bosi, S., **Le Van, C.**, **Pham, N.-S.** (2018). Intertemporal equilibrium with heterogeneous agents, endogenous dividends and collateral constraints, *Journal of Mathematical Economics*, vol. 76, 1-20.
 - Bosi, S., Ha-Huy, T., **Le Van, C.**, Pham, C.-T., **Pham, N.-S.** (2018). Financial bubbles and capital accumulation in altruistic economies, *Journal of Mathematical Economics*, vol. 75, 125-139.
+- Thai Ha-Huy, **Cuong Le Van**, Cuong Tran-Viet (2018), Arbitrage and equilibrium in economies with short-selling and ambiguity, *Journal of Mathematical Economics*, Volume 76, Pages 95-100. https://doi.org/10.1016/j.jmateco.2018.01.004
 
 **2017**
 
 - Bosi, S., **Le Van, C.**, **Pham, N.-S.** (2017). Asset bubbles and efficiency in a generalized two-sector model. *Mathematical Social Sciences*, vol. 88, 37-48.
+- Thai Ha-Huy, **Cuong Le Van** (2017), Existence of equilibrium on asset markets with a countably infinite number of states, *Journal of Mathematical Economics*, Volume 73, Pages 44-53. https://doi.org/10.1016/j.jmateco.2017.07.001
 - **Thi Kim Cuong Pham**, Mark Mcgillivray (2017), Reforming performance aid allocation practice, *World Development*, 90, pp.3. 
 
 **2016**
 
 - **Le Van, C.**, **Pham, N.-S.** (2016). Intertemporal equilibrium with financial asset and physical capital. *Economic Theory*, vol. 62, 155-199.
+
+**2014**
+
+- R.A. Dana, **C. Le Van** (2014), Efficient allocations and equilibria with short-selling and incomplete preferences, *Journal of Mathematical Economics*, Volume 53, Pages 101-105. https://doi.org/10.1016/j.jmateco.2014.06.003
+- Ayong Le Kama, A., Ha-Huy, T., **Le Van, C.**, Katheline Schubert (2014), A never-decisive and anonymous criterion for optimal growth models, *Economic Theory*, 55, 281-306. https://doi.org/10.1007/s00199-013-0759-x
 
 **2013**
 
@@ -100,21 +108,8 @@ Blayac T., Dubois D., Duchêne S., **Nguyen-Van P.**, Ventelou B., Willinger M. 
 - **Nguyen-Van P.**, Laisney F., Kaiser U. (2004), "The performance of German firms in the business-related services sectors: A dynamic analysis", *Journal of Business and Economic Statistics* 22(3), 274-295.
 - Cochard F., **Nguyen-Van P.**, Willinger M. (2004), "Trusting behavior in a repeated investment game", *Journal of Economic Behavior and Organization* 55(1), 31-44.
 
----
-
-## Working Papers
-
-- **Author(s)** (Year). *Title*. VOEF Working Paper No. X.  
-- **Author(s)** (Year). *Title*. Discussion Paper / Working Paper Series.
-
----
-
-## Policy Reports
-
-- **Author(s)** (Year). *Title*. Institution / Organization.  
-  — Policy‑oriented research with direct relevance for Vietnam.
 
 ---
 
 *This list is indicative and will be updated regularly.*  
-For a complete list of publications, please contact the VOEF team.
+For full publication records, please contact the VOEF team or refer to the members’ individual webpages.
