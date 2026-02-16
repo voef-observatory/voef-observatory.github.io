@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Selected Publications
+title: Research Projects
 permalink: /projects/
 ---
 
