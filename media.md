@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Press articles and interviews
+title: Press Articles and Interviews
 permalink: /media/
 ---
 
