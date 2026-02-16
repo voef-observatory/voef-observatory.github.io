@@ -148,6 +148,7 @@ This page highlights selected academic publications by members of the **Vietnam 
 
 - **Le Van, Cuong** & Vailakis, Yiannis (2005). "Recursive utility and optimal growth with bounded or unbounded returns," *Journal of Economic Theory*, vol. 123(2), pages 187-209.
 - **Nguyen-Van P.** (2005), "Distribution dynamics of CO2 emissions", *Environmental and Resource Economics* 32(4), 495-508.
+- **Pham, Thi Kim Cuong** (2005). "Economic growth and status-seeking through personal wealth," *European Journal of Political Economy*, vol. 21(2), pages 407-427.
 
 **2004**
 
