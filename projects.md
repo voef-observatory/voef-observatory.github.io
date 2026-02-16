@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Projects
+title: Research and Consultancy Projects
 permalink: /projects/
 ---
 
