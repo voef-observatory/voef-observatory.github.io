@@ -4,8 +4,12 @@
 @import "minima";
 
 .site-header {
+  position: relative;
   background: url("/assets/images/VOEF-logo-rouge.png") center/cover no-repeat !important;
   height: 250px;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
 }
 
 .site-header::after {
@@ -13,10 +17,12 @@
   position: absolute;
   inset: 0;
   background: rgba(0, 0, 50, 0.5);
+  z-index: 1;
 }
 
 .site-title {
   position: relative;
+  z-index: 2;
   color: white !important;
   font-size: 30px;
   font-weight: 600;
@@ -29,9 +35,4 @@ h1 {
 
 h2 {
   color: #003f88;
-}
-
-/* Couleur du titre principal en haut */
-.site-title {
-  color: #002b5c;
 }
