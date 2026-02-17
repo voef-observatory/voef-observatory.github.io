@@ -3,31 +3,120 @@
 
 @import "minima";
 
-.site-header .wrapper {
+/* Structure générale */
+.site-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Header avec logo à droite */
+.site-header {
+  background: #002b5c;
+  color: white;
+  padding: 1.5rem 2rem;
+}
+
+.header-content {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
-/* Bloc gauche : titre + menu vertical */
-.site-header .wrapper > div:first-child {
+.header-title h1 {
+  margin: 0;
+  font-size: 2rem;
+  color: white;
+}
+
+.site-subtitle {
+  margin: 0.5rem 0 0;
+  font-size: 1rem;
+  opacity: 0.9;
+}
+
+.header-logo img {
+  height: 100px; /* Ajustez selon votre logo */
+  width: auto;
+}
+
+/* Corps du site avec sidebar et contenu */
+.site-body {
   display: flex;
-  flex-direction: column;
+  flex: 1;
+  max-width: 1200px;
+  margin: 2rem auto;
+  width: 100%;
+  padding: 0 2rem;
 }
 
-/* Navigation en colonne */
-.site-nav {
-  display: flex;
-  flex-direction: column;
-  margin-top: 10px;
+/* Sidebar à gauche */
+.site-sidebar {
+  width: 250px;
+  flex-shrink: 0;
+  margin-right: 3rem;
 }
 
-/* Logo à droite */
-.site-header .wrapper::after {
-  content: "";
+.sidebar-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-nav li {
+  margin-bottom: 1rem;
+}
+
+.sidebar-nav a {
   display: block;
-  background: url("/assets/images/VOEF-logo-rouge.png") no-repeat center;
-  background-size: contain;
-  width: 180px;
-  height: 120px;
+  padding: 0.75rem 1rem;
+  background: #f5f5f5;
+  color: #002b5c;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: 500;
+  transition: background 0.3s;
+}
+
+.sidebar-nav a:hover {
+  background: #e0e0e0;
+}
+
+/* Contenu principal */
+.site-content {
+  flex: 1;
+  padding: 0 1rem;
+}
+
+/* Footer */
+.site-footer {
+  background: #002b5c;
+  color: white;
+  text-align: center;
+  padding: 1.5rem;
+  margin-top: auto;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .site-body {
+    flex-direction: column;
+  }
+  
+  .site-sidebar {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 2rem;
+  }
+  
+  .header-content {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .header-logo {
+    margin-top: 1rem;
+  }
 }
