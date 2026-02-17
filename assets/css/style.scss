@@ -3,6 +3,23 @@
 
 @import "minima";
 
+.site-header {
+  background-image: url("/assets/images/VOEF-logo-rouge.png");
+  background-size: cover;
+  background-position: center;
+  height: 220px;
+  display: flex;
+  align-items: center;
+}
+
+/* Titre en blanc */
+.site-title {
+  color: white !important;
+  font-weight: bold;
+  font-size: 28px;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.6);
+}
+
 /* Couleur des titres */
 h1 {
   color: #002b5c;
