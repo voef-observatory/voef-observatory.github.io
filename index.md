@@ -1,5 +1,6 @@
 *Advancing economic and financial research by Vietnam‑focused economists*
-
+---
+layout: default
 ---
 
 ## About VOEF
