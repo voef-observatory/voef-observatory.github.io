@@ -1,6 +1,3 @@
----
-layout: default
----
 *Advancing economic and financial research by Vietnam‑focused economists*
 
 ---
