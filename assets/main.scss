@@ -50,17 +50,16 @@
   white-space: nowrap;   /* keep each link on one line */
 }
 
-/* ============================= */
 /* ===== RIGHT: LOGO =========== */
-/* ============================= */
 
 .header-logo {
   display: flex;
-  align-items: stretch;  /* stretch to full height */
+  align-items: center;   /* centre verticalement */
 }
 
 .header-logo img {
-  height: 100%;          /* take full height of right column */
+  max-height: 100%;      /* ne dépasse pas la hauteur du menu */
+  height: auto;
   width: auto;
   object-fit: contain;
 }
