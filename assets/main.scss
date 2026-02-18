@@ -3,7 +3,9 @@
 
 @import "minima";
 
-/* ===== HEADER STRUCTURE ===== */
+/* ============================= */
+/* ===== HEADER STRUCTURE ====== */
+/* ============================= */
 
 .site-header .wrapper {
   display: grid;
@@ -13,7 +15,9 @@
   padding: 20px 0;
 }
 
-/* ===== TITRE EN HAUT (PLEINE LARGEUR) ===== */
+/* ============================= */
+/* ===== TITLE (TOP ROW) ======= */
+/* ============================= */
 
 .site-title {
   grid-column: 1 / 3;
@@ -24,7 +28,9 @@
   margin-bottom: 20px;
 }
 
-/* ===== MENU EN BAS À GAUCHE ===== */
+/* ============================= */
+/* ===== MENU (LEFT COLUMN) ==== */
+/* ============================= */
 
 .site-nav {
   grid-column: 1;
@@ -34,23 +40,26 @@
   align-items: flex-start;
 }
 
-/* Chaque lien sur une seule ligne */
-.site-nav a {
-  white-space: nowrap;
+/* Override Minima default inline links */
+.site-nav .page-link {
+  display: block;          /* force one link per line */
   margin-bottom: 8px;
+  white-space: nowrap;     /* keep each link on one line */
 }
 
-/* ===== LOGO EN BAS À DROITE ===== */
+/* ============================= */
+/* ===== LOGO (RIGHT COLUMN) === */
+/* ============================= */
 
 .site-header .wrapper::after {
   content: "";
   grid-column: 2;
   grid-row: 2;
-  align-self: center;   /* centre verticalement par rapport aux liens */
+  align-self: center;      /* vertical alignment with menu */
   justify-self: end;
   display: block;
-  width: 220px;
-  height: 140px;
+  width: 260px;
+  height: 4.5em; /* =3 lignes */
   background: url("/assets/images/Obs-logo-green.png") no-repeat center;
   background-size: contain;
 }
