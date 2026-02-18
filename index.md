@@ -41,11 +41,10 @@ VOEF is an open and collaborative research initiative. Colleagues interested in 
 The researchers listed below constitute the founding members of the Observatory:
 
 - Le Van Cuong
-- Pham Thi Kim Cuong
+- Nguyen Huu Thanh Tam
 - Nguyen Van Phu
 - Pham Ngoc Sang
-- Nguyen Huu Thanh Tam
-
+- Pham Thi Kim Cuong
 
 ## Contact
 
