@@ -27,17 +27,19 @@
   margin: 0;
 }
 
-.site-title a {
+.site-title {
   display: block;
-  height: 110px;
+  width: 220px;        /* largeur du logo */
+  height: 110px;       /* hauteur du logo */
 
   background-image: url("/assets/images/Obs-logo-green.png");
   background-repeat: no-repeat;
   background-position: left center;
   background-size: contain;
 
-  color: transparent;   /* cache le texte */
-  font-size: 0;
+  text-indent: -9999px;   /* cache le texte */
+  overflow: hidden;
+  white-space: nowrap;
 }
 
 /* ============================= */
