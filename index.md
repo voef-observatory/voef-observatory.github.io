@@ -43,7 +43,7 @@ The Observatory serves as a platform for collaboration, knowledge dissemination,
 
 ## People
 
-VOEF is an open and collaborative research initiative. Scholars and practitioners who are interested in contributing to, or collaborating with, the Observatory are warmly invited to contact us. Membership is granted through a co‑optation process to ensure academic excellence, scientific integrity and coherence with the Observatory’s mission.
+VOEF is an open and collaborative research initiative. Scholars and practitioners who are interested in contributing to, or collaborating with, the Observatory are warmly invited to contact us. Membership is granted through a co‑optation process to ensure academic excellence, scientific integrity, and coherence with the Observatory’s mission.
 
 The Director of VOEF is [Nguyễn Văn Phú](https://sites.google.com/view/nguyen-van/), PhD, Research Professor at EconomiX (CNRS & Paris Nanterre University).
 
@@ -58,4 +58,4 @@ The founding members of the Observatory are:
 ## Contact
 
 For inquiries, collaboration, or contributions, please contact:
-📧 **pnguyenvan(@)parisnanterre.fr** *(Phu Nguyen-Van)*
+📧 *pnguyenvan(@)parisnanterre.fr* (Phu Nguyen-Van)
