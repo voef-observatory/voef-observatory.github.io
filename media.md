@@ -33,4 +33,3 @@ permalink: /media/
 - [Thực hư cáo buộc 'đối tượng xấu lợi dụng tăng giá điện gây mất trật tự'](https://www.bbc.com/vietnamese/vietnam-48197366), *BBC Vietnamese*, 9.5.2019. (**Nguyễn Văn Phú**)
 - [Thanh toán bằng nhân dân tệ là ‘xu hướng trên thế giới’](https://www.bbc.com/vietnamese/vietnam-45393250), *BBC Vietnamese*, 3.9.2018. (**Nguyễn Văn Phú**)
 - [Vết thương môi trường không thể tái tạo](http://nhipcaudautu.vn/lanh-dao/ceo-viet/vet-thuong-moi-truong-khong-the-tai-tao-3315411/), *Nhịp Cầu Đầu Tư*, 15.8.2016. (**Nguyễn Văn Phú**)
-
