@@ -43,15 +43,15 @@ The Observatory serves as a platform for collaboration, knowledge dissemination,
 
 ## People
 
-VOEF is an open and collaborative research initiative. Scholars and practitioners interested in contributing to or collaborating with the Observatory are warmly encouraged to contact us. Membership is granted through a co-optation process.
+VOEF is an open and collaborative research initiative. Scholars and practitioners who are interested in contributing to, or collaborating with, the Observatory are warmly invited to contact us. Membership is granted through a co‑optation process to ensure academic excellence, scientific integrity and coherence with the Observatory’s mission.
+
+The Director of VOEF is [Nguyễn Văn Phú](https://sites.google.com/view/nguyen-van/), PhD, Research Professor at EconomiX (CNRS & Paris Nanterre University).
 
 The founding members of the Observatory are:
-
-- [Le Van Cuong](https://scholar.google.com/citations?user=zvwUmYkAAAAJ&hl=fr), Emeritus Professor, CNRS & Paris School of Economics
-- [Nguyen Huu Thanh Tam](https://www.em-normandie.com/annuaire-des-professeurs/thanh-tam-nguyen-huu), Associate Professor, Métis Lab, EM Normandy Business School
-- [Nguyen Van Phu](https://sites.google.com/view/nguyen-van/), Research Director, EconomiX, CNRS & Paris Nanterre University
-- [Pham Ngoc Sang](https://phamns.wordpress.com/), Professor, Métis Lab, EM Normandy Business School
-- [Pham Thi Kim Cuong](https://economix.fr/fr/membre/pham-thi-kim-cuong), Professor, EconomiX, CNRS & Paris Nanterre University
+- [Lê Văn Cường](https://scholar.google.com/citations?user=zvwUmYkAAAAJ&hl=fr), PhD, Emeritus Professor, CNRS & Paris School of Economics
+- [Nguyễn Hữu Thành Tâm](https://www.em-normandie.com/annuaire-des-professeurs/thanh-tam-nguyen-huu), PhD, Associate Professor, Métis Lab, EM Normandy Business School
+- [Phạm Ngọc Sáng](https://phamns.wordpress.com/), PhD, Professor, Métis Lab, EM Normandy Business School
+- [Phạm Thị Kim Cương](https://economix.fr/fr/membre/pham-thi-kim-cuong), PhD, Professor, EconomiX, CNRS & Paris Nanterre University
 
 ---
 
