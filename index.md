@@ -58,4 +58,4 @@ The founding members of the Observatory are:
 ## Contact
 
 For inquiries, collaboration, or contributions, please contact:
-📧 **pnguyenvan(@)parisnanterre.fr** *(Phu Nguyen-Van, PhD)*
+📧 **pnguyenvan(@)parisnanterre.fr** *(Phu Nguyen-Van)*
