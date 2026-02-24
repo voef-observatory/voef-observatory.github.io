@@ -36,7 +36,7 @@ This page highlights selected academic publications by members of the **Vietnam 
 
 **2023**
 
-- Guillaumont P., **Nguyen-Van P.**, **Pham T.K.C.**, Wagner L. (2023), "Equal opportunity and poverty reduction: How should aid be allocated?", Review of Development Economics, 27(1), 550-607.
+- Guillaumont P., **Nguyen-Van P.**, **Pham T.K.C.**, Wagner L. (2023), "Equal opportunity and poverty reduction: How should aid be allocated?", *Review of Development Economics*, 27(1), 550-607.
 - **Cuong Le Van**, **Ngoc-Sang Pham**, **Thi Kim Cuong Pham** (2023), Effects of development aid (grants and loans) on the economic dynamics of the recipient country, *Mathematical Social Sciences*, Volume 125, Pages 101-112. https://doi.org/10.1016/j.mathsocsci.2023.06.003.
 - **Pham, N.-S.** (2023). Intertemporal equilibrium with physical capital and financial asset: role of dividend taxation, *Mathematical Social Sciences*, vol. 123, 95-104.
 
