@@ -4,9 +4,10 @@ title: Press Articles & Interviews
 permalink: /media/
 ---
 
-# Press Articles
+# Selected Press Articles
 
 - **Nguyễn Văn Phú**, Tô Thế Nguyên (2026), [Dự báo tăng trưởng kinh tế Việt Nam năm 2026, triển vọng cho tăng trưởng 2 con số](https://anninhthudo.vn/du-bao-tang-truong-kinh-te-viet-nam-nam-2026-trien-vong-cho-tang-truong-2-con-so-post636857.antd), *An Ninh Thủ Đô*, 30.1.2026.
+- Thị Hương Nhài Nguyễn, **Thị Kim Cương Phạm**, Anne Stenger (2025), [Au-delà des facteurs financiers : le rôle des réseaux, de la confiance, et de l’engagement dans le maintien de l’agriculture biologique](https://opee.unistra.fr/Au-dela-des-facteurs-financiers-le-role-des-reseaux-de-la-confiance-et-de-l), *Bulletin de l'Observatoire des Politiques Economiques en Europe*, n°50.
 - **Nguyễn Văn Phú**, **Phạm Thị Kim Cương**, Tô Thế Nguyên (2025), [Kết nối doanh nghiệp và đại học: Thúc đẩy nghiên cứu ứng dụng](https://thanhnien.vn/ket-noi-doanh-nghiep-va-dai-hoc-thuc-day-nghien-cuu-ung-dung-185251211094214585.htm), *Thanh Niên*, 11.12.2025
 - **Nguyễn Hữu Thành Tâm**, **Nguyễn Văn Phú**, **Phạm Ngọc Sáng** (2025), [FDI trong kỷ nguyên “vươn mình” của Việt Nam](https://tiasang.com.vn/fdi-trong-ky-nguyen-vuon-minh-4966194.html), *Tia Sáng*, 15.9.2025.
 - **Lê Văn Cường**, **Nguyễn Hữu Thành Tâm**, **Nguyễn Văn Phú**, **Phạm Ngọc Sáng** (2025), [Đổi mới sáng tạo để thoát các “bẫy” phát triển](https://tiasang.com.vn/doi-moi-sang-tao-de-thoat-cac-bay-phat-trien-4966411.html), *Tia Sáng*, 23.6.2025.
@@ -18,11 +19,11 @@ permalink: /media/
 - **Nguyễn Văn Phú** (2021), [Hướng đi cho doanh nghiệp sau Covid-19](https://vneconomy.vn/huong-di-cho-doanh-nghiep-sau-covid-19.htm), *VnEconomy*, 26.9.2021.
 - Blayac T., Dubois D., Duchêne S., **Nguyen-Van P.**, Ventelou B., Willinger M. (2020), [Quelles mesures sanitaires les Français sont-ils prêts à accepter ?](https://theconversation.com/quelles-mesures-sanitaires-les-francais-sont-ils-prets-a-accepter-152326), *The Conversation*, 30.12.2020.
 - **Nguyen-Van P.** (2020), [The Coronavirus opens a narrow window of opportunity to correct our actions to cope with climate change](https://go.nature.com/2KGNseV), *Behavioural and Social Sciences*, Nature Research.
-- Dicharry B., **Nguyen-Van P.**, **Pham T.K.C.** (2019), [La politique de cohésion de l'UE et la convergence économique](https://opee.unistra.fr/La-politique-de-cohesion-de-l-UE-et-la-convergence-economique), *Bulletin de l'Observatoire des Politiques Economiques en Europe*, n°41, hiver 2019.
+- Dicharry B., **Nguyen-Van P.**, **Pham T.K.C.** (2019), [La politique de cohésion de l'UE et la convergence économique](https://opee.unistra.fr/La-politique-de-cohesion-de-l-UE-et-la-convergence-economique), *Bulletin de l'Observatoire des Politiques Economiques en Europe*, n°41.
 - **Nguyen-Van P.** (2019), [For PhD students in economics, it is publish or perish!](https://go.nature.com/30TSs5v), *Behavioural and Social Sciences*, Nature Research.
 - **Nguyễn Văn Phú** (2018), [Ý nghĩa kinh tế của việc dùng NDT trong thương mại VN-TQ](https://www.bbc.com/vietnamese/vietnam-45458490), *BBC Vietnamese*, 8.9.2018.
 
-# Media Interviews and Press Citations
+# Selected Media Interviews and Press Citations
 
 - [Trụ cột của quan hệ Đối tác Chiến lược Toàn diện Việt Nam - EU](https://baotintuc.vn/kinh-te/tru-cot-cua-quan-he-doi-tac-chien-luoc-toan-dien-viet-nam-eu-20260201202410131.htm), *Báo Tin Tức*, 1.2.2026. (**Nguyễn Văn Phú**)
 - [Đại hội XIV của Đảng: Đổi mới mô hình tăng trưởng để bứt phá và tránh bẫy thu nhập trung bình](https://tuoitre.vn/dai-hoi-xiv-cua-dang-doi-moi-mo-hinh-tang-truong-de-but-pha-va-tranh-bay-thu-nhap-trung-binh-20260123095033559.htm), *Tuổi Trẻ*, 23.1.2016. (**Nguyễn Văn Phú**)
