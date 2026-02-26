@@ -14,7 +14,12 @@ permalink: /media/
 - **Lê Văn Cường**, **Nguyễn Văn Phú**, Tô Thế Nguyên (2025), [Cần định hình cấu trúc GDP để Việt Nam giữ tăng trưởng 8%/năm khi Mỹ áp thuế cao](https://anninhthudo.vn/can-dinh-hinh-cau-truc-gdp-de-viet-nam-giu-tang-truong-8nam-khi-my-ap-thue-cao-post608335.antd), *An Ninh Thủ Đô*, 9.4.2025.
 - **Lê Văn Cường**, **Nguyễn Hữu Thành Tâm** & **Phạm Ngọc Sáng** (2025). [Xem xét kinh tế Việt Nam trong sáu tháng đầu năm 2024 - Nhìn về tương lai](https://doi.org/10.38203/jiem.vi.122024.1212), *Tạp chí Quản lý & Kinh tế Quốc tế*, số 170.
 - **Lê Văn Cường**, **Phạm Ngọc Sáng** (2024). [Tăng năng suất lao động: Yếu tố quyết định tăng trưởng kinh tế?](https://tiasang.com.vn/tang-nang-suat-lao-dong-yeu-to-quyet-dinh-tang-truong-kinh-te-4967370.html), *Tia Sáng*, 14.4.2024.
+- **Nguyen-Van P.**, Stenger A., Tiet T. (2022), [Ces incitations sociales qui poussent les individus à adopter des modes de vie plus durables](https://theconversation.com/ces-incitations-sociales-qui-poussent-les-individus-a-adopter-des-modes-de-vie-plus-durables-175537), *The Conversation*, 14.3.2022.
 - **Nguyễn Văn Phú** (2021), [Hướng đi cho doanh nghiệp sau Covid-19](https://vneconomy.vn/huong-di-cho-doanh-nghiep-sau-covid-19.htm), *VnEconomy*, 26.9.2021.
+- Blayac T., Dubois D., Duchêne S., **Nguyen-Van P.**, Ventelou B., Willinger M. (2020), [Quelles mesures sanitaires les Français sont-ils prêts à accepter ?](https://theconversation.com/quelles-mesures-sanitaires-les-francais-sont-ils-prets-a-accepter-152326), *The Conversation*, 30.12.2020.
+- **Nguyen-Van P.** (2020), [The Coronavirus opens a narrow window of opportunity to correct our actions to cope with climate change](https://go.nature.com/2KGNseV), *Behavioural and Social Sciences*, Nature Research.
+- Dicharry B., **Nguyen-Van P.**, **Pham T.K.C.** (2019), [La politique de cohésion de l'UE et la convergence économique](https://opee.unistra.fr/La-politique-de-cohesion-de-l-UE-et-la-convergence-economique), *Bulletin de l'Observatoire des Politiques Economiques en Europe*, n°41, hiver 2019.
+- **Nguyen-Van P.** (2019), [For PhD students in economics, it is publish or perish!](https://go.nature.com/30TSs5v), *Behavioural and Social Sciences*, Nature Research.
 - **Nguyễn Văn Phú** (2018), [Ý nghĩa kinh tế của việc dùng NDT trong thương mại VN-TQ](https://www.bbc.com/vietnamese/vietnam-45458490), *BBC Vietnamese*, 8.9.2018.
 
 # Media Interviews and Press Citations
