@@ -12,18 +12,18 @@ This page highlights selected academic publications by members of the **Vietnam 
 
 - Gourdel, P., **Le Van, C.**, **Pham, N.-S.**, Tran-Viet, C. (2026). Hartman-Stampacchia theorem, Gale-Nikaidô-Debreu lemma, and Brouwer and Kakutani fixed-point theorems. *Journal of Optimization Theory and Applications*.
 - **Pham, N.-S.**, Toda, A.A. Comment on "Asset Bubbles and Overlapping Generations", *Econometrica*.
-- Massin, S., **Nguyen-Van, P.**, Dubois, D.,  Willinger, M., Ventelou V. "Hysteresis in addictive consumption depends on time preferences". *Theory and Decsion*. https://doi.org/10.1007/s11238-025-10072-w
+- Massin, S., **Nguyen-Van, P.**, Dubois, D.,  Willinger, M., Ventelou V. "Hysteresis in addictive consumption depends on time preferences". *Theory and Decsion*. {https://doi.org/10.1007/s11238-025-10072-w}
 
 **2026**
 
-- **Le Van, C.**, **N.-S. Pham**, **T.K.C. Pham**, and B. Tran-Nam (2025), "Governance, Productivity and Economic Development", *Journal of Public Economic Theory* 28, 1-12. https://doi.org/10.1111/jpet.70099.
+- **Le Van, C.**, **N.-S. Pham**, **T.K.C. Pham**, and B. Tran-Nam (2025), "Governance, Productivity and Economic Development", *Journal of Public Economic Theory* 28, 1-12. {https://doi.org/10.1111/jpet.70099}.
 
 **2025**
 
-- Boun My K., Nguyen-Quang H., **Nguyen-Van P.**, **Pham T.K.C.**, Stenger A., Tiet T., To-The N. (2025), "Farmers’ preferences toward organic certification scheme: Evidence from a discrete choice experiment in Northern Vietnam", *World Development Sustainability*, Volume 6, 100203. https://doi.org/10.1016/j.wds.2025.100203
-- Stefano Bosi, **Cuong Le Van**, Giang Phung (2025), Economic growth with brown or green capital, *Journal of Mathematical Economics*, Volume 117, 103101. https://doi.org/10.1016/j.jmateco.2025.103101.
-- Le, T. T. L., & **Nguyen-Huu, T. T.** (2025). Like a multicolored puzzle: decomposing temporary–permanent wage gap in Vietnam. *Applied Economics*, 1–16. https://doi.org/10.1080/00036846.2025.2594179
-- **Nguyen-Huu, T. T.**, & Hoang, H. H. (2025). Foreign direct investment in Vietnam: how local institutions matter? *Post-Communist Economies*, 37(7), 789-814. https://doi.org/10.1080/14631377.2025.2493511
+- Boun My K., Nguyen-Quang H., **Nguyen-Van P.**, **Pham T.K.C.**, Stenger A., Tiet T., To-The N. (2025), "Farmers’ preferences toward organic certification scheme: Evidence from a discrete choice experiment in Northern Vietnam", *World Development Sustainability*, Volume 6, 100203. {https://doi.org/10.1016/j.wds.2025.100203}
+- Stefano Bosi, **Cuong Le Van**, Giang Phung (2025), Economic growth with brown or green capital, *Journal of Mathematical Economics*, Volume 117, 103101. {https://doi.org/10.1016/j.jmateco.2025.103101}
+- Le, T. T. L., & **Nguyen-Huu, T. T.** (2025). Like a multicolored puzzle: decomposing temporary–permanent wage gap in Vietnam. *Applied Economics*, 1–16. {https://doi.org/10.1080/00036846.2025.2594179}
+- **Nguyen-Huu, T. T.**, & Hoang, H. H. (2025). Foreign direct investment in Vietnam: how local institutions matter? *Post-Communist Economies*, 37(7), 789-814. {https://doi.org/10.1080/14631377.2025.2493511}
 
 **2024**
 
