@@ -11,12 +11,12 @@ This page highlights selected academic publications by members of the **Vietnam 
 **Forthcoming**
 
 - Gourdel, P., **Le Van, C.**, **Pham, N.-S.**, Tran-Viet, C. (2026). Hartman-Stampacchia theorem, Gale-Nikaidô-Debreu lemma, and Brouwer and Kakutani fixed-point theorems. *Journal of Optimization Theory and Applications*.
-- **Pham, N.-S.**, Toda, A. A. "Comment on “Asset Bubbles and Overlapping Generations”", *Econometrica*.
+- **Pham, N.-S.**, Toda, A. A. Comment on "Asset Bubbles and Overlapping Generations", *Econometrica*.
 - Massin, S., **Nguyen-Van, P.**, Dubois, D.,  Willinger, M., Ventelou V. "Hysteresis in addictive consumption depends on time preferences". *Theory and Decsion*. https://doi.org/10.1007/s11238-025-10072-w
 
 **2026**
 
-- **Le Van, C.**, **N.-S. Pham**, **T.K.C. Pham**, and B. Tran-Nam (2025), “Governance, Productivity and Economic Development”, *Journal of Public Economic Theory* 28, 1-12. https://doi.org/10.1111/jpet.70099.
+- **Le Van, C.**, **N.-S. Pham**, **T.K.C. Pham**, and B. Tran-Nam (2025), "Governance, Productivity and Economic Development", *Journal of Public Economic Theory* 28, 1-12. https://doi.org/10.1111/jpet.70099.
 
 **2025**
 
