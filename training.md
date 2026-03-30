@@ -8,9 +8,9 @@ Trong bối cảnh hội nhập kinh tế quốc tế ngày càng sâu rộng, C
 
 Xuất phát từ yêu cầu cấp thiết đó, chúng tôi (gồm các thành viên VOEF và các đồng nghiệp) đề xuất triển khai **ba chương trình đào tạo** chuyên biệt, được thiết kế theo hướng liên thông và bổ trợ lẫn nhau, nhằm đáp ứng nhu cầu đa dạng của các nhóm đối tượng trong hệ sinh thái tài chính - ngân hàng - công nghệ. Các chương trình này hướng tới việc thu hẹp khoảng cách giữa đào tạo và thực tiễn, giữa năng lực hiện có và yêu cầu phát triển trong tương lai, đồng thời tạo dựng một nền tảng nhân lực có khả năng dẫn dắt sự phát triển của IFC tại Việt Nam.
 
-Bấm vào đây để tải chi tiết về 3 chương trình này. 
+(Bấm vào đây để tải chi tiết về 3 chương trình này)(https://github.com/voef-observatory/voef-observatory.github.io/assets/pdf/three-training-programs.pdf).
 
-Các cơ sở giáo dục Việt Nam có thể sử dụng chúng làm khuôn khổ tham khảo trong việc thiết kế các chương trình đào tạo và giáo dục của riêng mình. Chúng tôi luôn sẵn sàng hợp tác nếu có sự quan tâm. Các cơ sở giáo dục có thể liên hệ trực tiếp với bất kỳ ai trong ba đại diện nhóm tác giả là Nguyễn Ngọc Anh (ngocanh(@)depocen.org), Lê Văn Cường (levan(@)univ-paris1.fr) và Nguyễn Văn Phú (pnguyenvan(@)parisnanterre.fr)
+Các cơ sở giáo dục Việt Nam có thể sử dụng chúng làm khuôn khổ tham khảo trong việc thiết kế các chương trình đào tạo và giáo dục của riêng mình. Chúng tôi luôn sẵn sàng hợp tác nếu có sự quan tâm. Các cơ sở giáo dục có thể liên hệ trực tiếp với bất kỳ ai trong ba đại diện nhóm tác giả là Nguyễn Ngọc Anh (ngocanh(@)depocen.org), Lê Văn Cường (levan(@)univ-paris1.fr) và Nguyễn Văn Phú (pnguyenvan(@)parisnanterre.fr).
 
 Nhóm tác giả gồm (tên được xếp theo thứ tự chữ cái):
 - TS Nguyễn Ngọc Anh, Giám đốc Trung tâm DEPOCEN (Việt Nam)
