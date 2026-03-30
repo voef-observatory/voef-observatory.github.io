@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Training Programs in Economics and Finance
-nav_title: Training Programs
+title: Training Programs
 permalink: /training/
 ---
+# Training Programs in Economics and Finance
 
 Trong bối cảnh hội nhập kinh tế quốc tế ngày càng sâu rộng, Chính phủ Việt Nam đã và đang thúc đẩy chiến lược xây dựng Trung tâm Tài chính Quốc tế (*International Financial Center - IFC*) tại Việt Nam, với hai đầu tàu là Thành phố Hồ Chí Minh và Thành phố Đà Nẵng. Để hiện thực hóa mục tiêu này, một trong những yếu tố then chốt mang tính quyết định chính là phát triển nguồn nhân lực chất lượng phù hợp. Đây phải là lực lượng lao động không chỉ sở hữu nền tảng kiến thức chuyên môn vững chắc, mà còn có khả năng thích ứng nhanh với các chuẩn mực quốc tế, làm chủ công nghệ mới, và hoạt động hiệu quả trong môi trường cạnh tranh toàn cầu ngày càng khốc liệt. 
 
