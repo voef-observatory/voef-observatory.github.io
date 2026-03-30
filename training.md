@@ -10,7 +10,7 @@ Xuất phát từ yêu cầu cấp thiết đó, chúng tôi (gồm các thành 
 
 [Bấm vào đây để xem chi tiết về 3 chương trình này](https://github.com/voef-observatory/voef-observatory.github.io/blob/0b37f97a7f1678e178aa45bf13e545ee5b26aa17/assets/pdf/three-training-programs.pdf).
 
-Các cơ sở giáo dục Việt Nam có thể sử dụng chúng làm khuôn khổ tham khảo trong việc thiết kế các chương trình đào tạo và giáo dục của riêng mình. Chúng tôi luôn sẵn sàng hợp tác nếu có sự quan tâm. Các cơ sở giáo dục có thể liên hệ trực tiếp với ba đại diện nhóm tác giả là Nguyễn Ngọc Anh (ngocanh(@)depocen.org), Lê Văn Cường (levan(@)univ-paris1.fr) và Nguyễn Văn Phú (pnguyenvan(@)parisnanterre.fr).
+Các cơ sở giáo dục Việt Nam có thể sử dụng chúng làm khuôn khổ tham khảo trong việc thiết kế các chương trình đào tạo và giáo dục của riêng mình. Chúng tôi luôn sẵn sàng hợp tác nếu có sự quan tâm. Các cơ sở giáo dục có thể liên hệ trực tiếp với ba đại diện nhóm tác giả là Nguyễn Ngọc Anh (📧 *ngocanh(@)depocen.org*), Lê Văn Cường (📧 *levan(@)univ-paris1.fr*) và Nguyễn Văn Phú (📧 *pnguyenvan(@)parisnanterre.fr*).
 
 Nhóm tác giả gồm (tên được xếp theo thứ tự chữ cái):
 - TS Nguyễn Ngọc Anh, Giám đốc Trung tâm DEPOCEN (Việt Nam)
