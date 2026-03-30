@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Training Programs
+title: Training Programs in Economics and Finance
+nav_title: Training Programs
 permalink: /training/
 ---
 
