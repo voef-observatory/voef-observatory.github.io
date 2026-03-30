@@ -6,7 +6,7 @@ permalink: /training/
 
 Trong bối cảnh hội nhập kinh tế quốc tế ngày càng sâu rộng, Chính phủ Việt Nam đã và đang thúc đẩy chiến lược xây dựng Trung tâm Tài chính Quốc tế (*International Financial Center - IFC*) tại Việt Nam, với hai đầu tàu là Thành phố Hồ Chí Minh và Thành phố Đà Nẵng. Để hiện thực hóa mục tiêu này, một trong những yếu tố then chốt mang tính quyết định chính là phát triển nguồn nhân lực chất lượng phù hợp. Đây phải là lực lượng lao động không chỉ sở hữu nền tảng kiến thức chuyên môn vững chắc, mà còn có khả năng thích ứng nhanh với các chuẩn mực quốc tế, làm chủ công nghệ mới, và hoạt động hiệu quả trong môi trường cạnh tranh toàn cầu ngày càng khốc liệt. 
 
-Xuất phát từ yêu cầu cấp thiết đó, chúng tôi (gồm các thành viên VOEF và các đồng nghiệp khác) đề xuất triển khai **3 chương trình đào tạo** chuyên biệt, được thiết kế theo hướng liên thông và bổ trợ lẫn nhau, nhằm đáp ứng nhu cầu đa dạng của các nhóm đối tượng trong hệ sinh thái tài chính - ngân hàng - công nghệ. Các chương trình này hướng tới việc thu hẹp khoảng cách giữa đào tạo và thực tiễn, giữa năng lực hiện có và yêu cầu phát triển trong tương lai, đồng thời tạo dựng một nền tảng nhân lực có khả năng dẫn dắt sự phát triển của IFC tại Việt Nam.
+Xuất phát từ yêu cầu cấp thiết đó, chúng tôi (gồm các thành viên VOEF và các đồng nghiệp từ Australia, Pháp và Việt Nam) đề xuất triển khai **3 chương trình đào tạo** chuyên biệt, được thiết kế theo hướng liên thông và bổ trợ lẫn nhau, nhằm đáp ứng nhu cầu đa dạng của các nhóm đối tượng trong hệ sinh thái tài chính - ngân hàng - công nghệ. Các chương trình này hướng tới việc thu hẹp khoảng cách giữa đào tạo và thực tiễn, giữa năng lực hiện có và yêu cầu phát triển trong tương lai, đồng thời tạo dựng một nền tảng nhân lực có khả năng dẫn dắt sự phát triển của IFC tại Việt Nam.
 
 [Bấm vào đây để xem chi tiết về 3 chương trình này](https://voef-observatory.github.io/assets/pdf/three-training-programs.pdf)
 
@@ -19,7 +19,7 @@ Nhóm tác giả gồm (tên được xếp theo thứ tự chữ cái):
 - GS Phạm Thị Kim Cương, Đại học Paris Nanterre (Pháp), Chủ tịch Hội ISVE (International Society of Vietnam Economists)
 - GS Phạm Hi Đức, Trưởng Khoa Tài chính và Kỹ thuật định lượng, ECE Graduate School of Engineering (Pháp)
 - TS Nguyễn Trung Lập, Giám đốc QuantX Finance (Pháp)
-- TS Lê Hồng Nhật, nguyên giảng viên Đại học Kinh Tế Luật Thành phố Hồ Chí Minh
+- TS Lê Hồng Nhật, nguyên giảng viên Đại học Kinh Tế Luật Thành phố Hồ Chí Minh (Việt Nam)
 - GS Nguyễn Văn Phú, Giám đốc viện ECONOMIX, Trung tâm Nghiên cứu Khoa học Quốc gia Pháp & Đại học Paris Nanterre (Pháp)
 - GS Phạm Ngọc Sáng, EM Normandy Business School (Pháp)
 - PGS Nguyễn Hữu Thành Tâm, EM Normandy Business School (Pháp)
