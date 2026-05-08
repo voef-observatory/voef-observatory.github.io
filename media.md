@@ -6,7 +6,7 @@ permalink: /media/
 
 # Selected Press Articles
 
-- **Phạm Thị Kim Cuongw**, **Lê Văn Cường** (2026), [Để VN có đại học trong top 300 thế giới giai đoạn 2045-2050](https://thanhnien.vn/de-vn-co-dai-hoc-trong-top-300-the-gioi-giai-doan-2045-2050-185260507201817658.htm), *Thanh Niên*, 8.5.2026.
+- **Phạm Thị Kim Cương**, **Lê Văn Cường** (2026), [Để VN có đại học trong top 300 thế giới giai đoạn 2045-2050](https://thanhnien.vn/de-vn-co-dai-hoc-trong-top-300-the-gioi-giai-doan-2045-2050-185260507201817658.htm), *Thanh Niên*, 8.5.2026.
 - **Nguyễn Văn Phú**, Tô Thế Nguyên (2026), [Dự báo tăng trưởng kinh tế Việt Nam năm 2026, triển vọng cho tăng trưởng 2 con số](https://anninhthudo.vn/du-bao-tang-truong-kinh-te-viet-nam-nam-2026-trien-vong-cho-tang-truong-2-con-so-post636857.antd), *An Ninh Thủ Đô*, 30.1.2026.
 - Thị Hương Nhài Nguyễn, **Thị Kim Cương Phạm**, Anne Stenger (2025), [Au-delà des facteurs financiers : le rôle des réseaux, de la confiance, et de l’engagement dans le maintien de l’agriculture biologique](https://opee.unistra.fr/Au-dela-des-facteurs-financiers-le-role-des-reseaux-de-la-confiance-et-de-l), *Bulletin de l'Observatoire des Politiques Economiques en Europe*, n°50.
 - **Nguyễn Văn Phú**, **Phạm Thị Kim Cương**, Tô Thế Nguyên (2025), [Kết nối doanh nghiệp và đại học: Thúc đẩy nghiên cứu ứng dụng](https://thanhnien.vn/ket-noi-doanh-nghiep-va-dai-hoc-thuc-day-nghien-cuu-ung-dung-185251211094214585.htm), *Thanh Niên*, 11.12.2025
