@@ -13,11 +13,11 @@ This page highlights selected academic publications by members of the **Vietnam 
 - Nguyen-Anh T., **Nguyen-Van, P.**, To-The N. Farmers’ Preferences and Attitudes in Conversion to Organic Farming: A Lab-in-the-Field Experiment, *Ecological Economics*.
 - Gourdel, P., **Le Van, C.**, **Pham, N.-S.**, Tran-Viet, C. "Hartman-Stampacchia theorem, Gale-Nikaidô-Debreu lemma, and Brouwer and Kakutani fixed-point theorems", *Journal of Optimization Theory and Applications*.
 - **Pham, N.-S.**, Toda, A.A. "Comment on 'Asset Bubbles and Overlapping Generations' ", *Econometrica*.
-- Massin, S., **Nguyen-Van, P.**, Dubois, D.,  Willinger, M., Ventelou V. "Hysteresis in addictive consumption depends on time preferences", *Theory and Decsion*, https://doi.org/10.1007/s11238-025-10072-w
 
 **2026**
 
-- **Le Van, C.**, **N.-S. Pham**, **T.K.C. Pham**, and B. Tran-Nam (2025), "Governance, Productivity and Economic Development", *Journal of Public Economic Theory* 28, 1-12. https://doi.org/10.1111/jpet.70099
+- **Le Van, C.**, **N.-S. Pham**, **T.K.C. Pham**, and B. Tran-Nam (2026), "Governance, Productivity and Economic Development", *Journal of Public Economic Theory* 28, 1-12. https://doi.org/10.1111/jpet.70099
+- Massin, S., **Nguyen-Van, P.**, Dubois, D.,  Willinger, M., Ventelou V. "Hysteresis in addictive consumption depends on time preferences", *Theory and Decsion*, 100, pages 769-806, https://doi.org/10.1007/s11238-025-10072-w
 
 **2025**
 
