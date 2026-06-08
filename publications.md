@@ -10,7 +10,8 @@ This page highlights selected academic publications by members of the **Vietnam 
 
 **Forthcoming**
 
-- Gourdel, P., **Le Van, C.**, **Pham, N.-S.**, Tran-Viet, C. (2026). "Hartman-Stampacchia theorem, Gale-Nikaidô-Debreu lemma, and Brouwer and Kakutani fixed-point theorems", *Journal of Optimization Theory and Applications*.
+- Nguyen-Anh T., **Nguyen-Van, P.**, To-The N. Farmers’ Preferences and Attitudes in Conversion to Organic Farming: A Lab-in-the-Field Experiment, *Ecological Economics*.
+- Gourdel, P., **Le Van, C.**, **Pham, N.-S.**, Tran-Viet, C. "Hartman-Stampacchia theorem, Gale-Nikaidô-Debreu lemma, and Brouwer and Kakutani fixed-point theorems", *Journal of Optimization Theory and Applications*.
 - **Pham, N.-S.**, Toda, A.A. "Comment on 'Asset Bubbles and Overlapping Generations' ", *Econometrica*.
 - Massin, S., **Nguyen-Van, P.**, Dubois, D.,  Willinger, M., Ventelou V. "Hysteresis in addictive consumption depends on time preferences", *Theory and Decsion*, https://doi.org/10.1007/s11238-025-10072-w
 
