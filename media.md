@@ -6,9 +6,20 @@ permalink: /media/
 
 # Selected Press Articles
 
+**In English/French**
+
+- **Nguyễn Hữu Thành Tâm**, **Nguyễn Văn Phú**, **Phạm Thị Kim Cương** (2026, [La diplomatie du bambou](https://legrandcontinent.eu/fr/2026/06/01/la-diplomatie-du-bambou/), *Le Grand Continent*, 01.06.2026.
+- Thị Hương Nhài Nguyễn, **Thị Kim Cương Phạm**, Anne Stenger (2025), [Au-delà des facteurs financiers : le rôle des réseaux, de la confiance, et de l’engagement dans le maintien de l’agriculture biologique](https://opee.unistra.fr/Au-dela-des-facteurs-financiers-le-role-des-reseaux-de-la-confiance-et-de-l), *Bulletin de l'Observatoire des Politiques Economiques en Europe*, n°50.
+- **Nguyen-Van P.**, Stenger A., Tiet T. (2022), [Ces incitations sociales qui poussent les individus à adopter des modes de vie plus durables](https://theconversation.com/ces-incitations-sociales-qui-poussent-les-individus-a-adopter-des-modes-de-vie-plus-durables-175537), *The Conversation*, 14.3.2022.
+- Blayac T., Dubois D., Duchêne S., **Nguyen-Van P.**, Ventelou B., Willinger M. (2020), [Quelles mesures sanitaires les Français sont-ils prêts à accepter ?](https://theconversation.com/quelles-mesures-sanitaires-les-francais-sont-ils-prets-a-accepter-152326), *The Conversation*, 30.12.2020.
+- **Nguyen-Van P.** (2020), [The Coronavirus opens a narrow window of opportunity to correct our actions to cope with climate change](https://go.nature.com/2KGNseV), *Behavioural and Social Sciences*, Nature Research.
+- Dicharry B., **Nguyen-Van P.**, **Pham T.K.C.** (2019), [La politique de cohésion de l'UE et la convergence économique](https://opee.unistra.fr/La-politique-de-cohesion-de-l-UE-et-la-convergence-economique), *Bulletin de l'Observatoire des Politiques Economiques en Europe*, n°41.
+- **Nguyen-Van P.** (2019), [For PhD students in economics, it is publish or perish!](https://go.nature.com/30TSs5v), *Behavioural and Social Sciences*, Nature Research.
+  
+**Tiếng Việt**
+
 - **Phạm Thị Kim Cương**, **Lê Văn Cường** (2026), [Để VN có đại học trong top 300 thế giới giai đoạn 2045-2050](https://thanhnien.vn/de-vn-co-dai-hoc-trong-top-300-the-gioi-giai-doan-2045-2050-185260507201817658.htm), *Thanh Niên*, 8.5.2026.
 - **Nguyễn Văn Phú**, Tô Thế Nguyên (2026), [Dự báo tăng trưởng kinh tế Việt Nam năm 2026, triển vọng cho tăng trưởng 2 con số](https://anninhthudo.vn/du-bao-tang-truong-kinh-te-viet-nam-nam-2026-trien-vong-cho-tang-truong-2-con-so-post636857.antd), *An Ninh Thủ Đô*, 30.1.2026.
-- Thị Hương Nhài Nguyễn, **Thị Kim Cương Phạm**, Anne Stenger (2025), [Au-delà des facteurs financiers : le rôle des réseaux, de la confiance, et de l’engagement dans le maintien de l’agriculture biologique](https://opee.unistra.fr/Au-dela-des-facteurs-financiers-le-role-des-reseaux-de-la-confiance-et-de-l), *Bulletin de l'Observatoire des Politiques Economiques en Europe*, n°50.
 - **Nguyễn Văn Phú**, **Phạm Thị Kim Cương**, Tô Thế Nguyên (2025), [Kết nối doanh nghiệp và đại học: Thúc đẩy nghiên cứu ứng dụng](https://thanhnien.vn/ket-noi-doanh-nghiep-va-dai-hoc-thuc-day-nghien-cuu-ung-dung-185251211094214585.htm), *Thanh Niên*, 11.12.2025
 - **Nguyễn Hữu Thành Tâm**, **Nguyễn Văn Phú**, **Phạm Ngọc Sáng** (2025), [FDI trong kỷ nguyên “vươn mình” của Việt Nam](https://tiasang.com.vn/fdi-trong-ky-nguyen-vuon-minh-4966194.html), *Tia Sáng*, 15.9.2025.
 - **Lê Văn Cường**, **Nguyễn Hữu Thành Tâm**, **Nguyễn Văn Phú**, **Phạm Ngọc Sáng** (2025), [Đổi mới sáng tạo để thoát các “bẫy” phát triển](https://tiasang.com.vn/doi-moi-sang-tao-de-thoat-cac-bay-phat-trien-4966411.html), *Tia Sáng*, 23.6.2025.
@@ -16,23 +27,23 @@ permalink: /media/
 - **Lê Văn Cường**, **Nguyễn Văn Phú**, Tô Thế Nguyên (2025), [Cần định hình cấu trúc GDP để Việt Nam giữ tăng trưởng 8%/năm khi Mỹ áp thuế cao](https://anninhthudo.vn/can-dinh-hinh-cau-truc-gdp-de-viet-nam-giu-tang-truong-8nam-khi-my-ap-thue-cao-post608335.antd), *An Ninh Thủ Đô*, 9.4.2025.
 - **Lê Văn Cường**, **Nguyễn Hữu Thành Tâm** & **Phạm Ngọc Sáng** (2025). [Xem xét kinh tế Việt Nam trong sáu tháng đầu năm 2024 - Nhìn về tương lai](https://doi.org/10.38203/jiem.vi.122024.1212), *Tạp chí Quản lý & Kinh tế Quốc tế*, số 170.
 - **Lê Văn Cường**, **Phạm Ngọc Sáng** (2024). [Tăng năng suất lao động: Yếu tố quyết định tăng trưởng kinh tế?](https://tiasang.com.vn/tang-nang-suat-lao-dong-yeu-to-quyet-dinh-tang-truong-kinh-te-4967370.html), *Tia Sáng*, 14.4.2024.
-- **Nguyen-Van P.**, Stenger A., Tiet T. (2022), [Ces incitations sociales qui poussent les individus à adopter des modes de vie plus durables](https://theconversation.com/ces-incitations-sociales-qui-poussent-les-individus-a-adopter-des-modes-de-vie-plus-durables-175537), *The Conversation*, 14.3.2022.
 - **Nguyễn Văn Phú** (2021), [Hướng đi cho doanh nghiệp sau Covid-19](https://vneconomy.vn/huong-di-cho-doanh-nghiep-sau-covid-19.htm), *VnEconomy*, 26.9.2021.
-- Blayac T., Dubois D., Duchêne S., **Nguyen-Van P.**, Ventelou B., Willinger M. (2020), [Quelles mesures sanitaires les Français sont-ils prêts à accepter ?](https://theconversation.com/quelles-mesures-sanitaires-les-francais-sont-ils-prets-a-accepter-152326), *The Conversation*, 30.12.2020.
-- **Nguyen-Van P.** (2020), [The Coronavirus opens a narrow window of opportunity to correct our actions to cope with climate change](https://go.nature.com/2KGNseV), *Behavioural and Social Sciences*, Nature Research.
-- Dicharry B., **Nguyen-Van P.**, **Pham T.K.C.** (2019), [La politique de cohésion de l'UE et la convergence économique](https://opee.unistra.fr/La-politique-de-cohesion-de-l-UE-et-la-convergence-economique), *Bulletin de l'Observatoire des Politiques Economiques en Europe*, n°41.
-- **Nguyen-Van P.** (2019), [For PhD students in economics, it is publish or perish!](https://go.nature.com/30TSs5v), *Behavioural and Social Sciences*, Nature Research.
 - **Nguyễn Văn Phú** (2018), [Ý nghĩa kinh tế của việc dùng NDT trong thương mại VN-TQ](https://www.bbc.com/vietnamese/vietnam-45458490), *BBC Vietnamese*, 8.9.2018.
 
 # Selected Media Interviews and Press Citations
+
+**In English/French**
+
+- [Macron courts Southeast Asia in bid to counterbalance superpowers](https://www.courthousenews.com/macron-courts-southeast-asia-in-bid-to-counterbalance-superpowers/), *Courthouse News*, 30.5.2025.(**Nguyễn Văn Phú**)
+- [Les raisons du déplacement d'Emmanuel Macron en Asie du Sud Est](https://www.rcf.fr/articles/actualite/les-raisons-du-deplacement-demmanuel-macron-en-asie-du-sud-est), *RCF-Radio Notre Dame*, 28.5.2025. (**Nguyễn Văn Phú**)
+
+**Tiếng Việt**
 
 - [Trụ cột của quan hệ Đối tác Chiến lược Toàn diện Việt Nam - EU](https://baotintuc.vn/kinh-te/tru-cot-cua-quan-he-doi-tac-chien-luoc-toan-dien-viet-nam-eu-20260201202410131.htm), *Báo Tin Tức*, 1.2.2026. (**Nguyễn Văn Phú**)
 - [Đại hội XIV của Đảng: Đổi mới mô hình tăng trưởng để bứt phá và tránh bẫy thu nhập trung bình](https://tuoitre.vn/dai-hoi-xiv-cua-dang-doi-moi-mo-hinh-tang-truong-de-but-pha-va-tranh-bay-thu-nhap-trung-binh-20260123095033559.htm), *Tuổi Trẻ*, 23.1.2016. (**Nguyễn Văn Phú**)
 - [Cải cách thể chế: Đột phá then chốt để kinh tế Việt Nam tăng tốc](https://tuoitre.vn/cai-cach-the-che-dot-pha-then-chot-de-kinh-te-viet-nam-tang-toc-20260121094024161.htm), *Tuổi Trẻ*, 21.1.2026. (**Lê Văn Cường**)
 - [FED liên tiếp hạ lãi suất: Cơ hội và thách thức đối với kinh tế Việt Nam](https://baotintuc.vn/thi-truong-tien-te/fed-lien-tiep-ha-lai-suat-co-hoi-va-thach-thuc-doi-voi-kinh-te-viet-nam-20251114193406579.htm), *Báo Tin Tức*, 14.11.2025. (**Nguyễn Văn Phú**)
 - [TSKH Phạm Thị Kim Cương chỉ ra cơ hội Việt Nam có thể nắm bắt để hướng ra thế giới theo làn sóng tiêu dùng bền vững](https://doisongphapluat.nguoiduatin.vn/tskh-pham-thi-kim-cuong-chi-ra-co-hoi-viet-nam-co-the-nam-bat-de-huong-ra-the-gioi-theo-lan-song-tieu-dung-ben-vung-a570011.html), *Đời Sống và Pháp Luật*, 11.9.2025. (**Phạm Thị Kim Cương**)
-- [Macron courts Southeast Asia in bid to counterbalance superpowers](https://www.courthousenews.com/macron-courts-southeast-asia-in-bid-to-counterbalance-superpowers/), *Courthouse News*, 30.5.2025.(**Nguyễn Văn Phú**)
-- [Les raisons du déplacement d'Emmanuel Macron en Asie du Sud Est](https://www.rcf.fr/articles/actualite/les-raisons-du-deplacement-demmanuel-macron-en-asie-du-sud-est), *RCF-Radio Notre Dame*, 28.5.2025. (**Nguyễn Văn Phú**)
 - [Hai yếu tố quyết định cho sự tái 'khởi động' của TP.HCM](https://doanhnhantrevietnam.vn/hai-yeu-to-quyet-dinh-cho-su-tai-khoi-dong-cua-tphcm-d10010.html), *Doanh Nhan Trẻ Việt Nam*, 15.9.2021. (**Nguyễn Văn Phú**)
 - [‘Việt Nam cần đa dạng hóa thị trường xuất khẩu, tránh phụ thuộc Trung Quốc’](https://thesaigontimes.vn/viet-nam-can-da-dang-hoa-thi-truong-xuat-khau-tranh-phu-thuoc-trung-quoc/), *Kinh Tế Sài Gòn*, 6.5.2020. (**Nguyễn Văn Phú**)
 - [Mục tiêu 'Make in Vietnam' khả thi tới mức nào đây?](https://www.bbc.com/vietnamese/vietnam-49067928), *BBC Vietnamese*, 25.7.2019. (**Nguyễn Văn Phú**)
