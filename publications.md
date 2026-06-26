@@ -10,6 +10,8 @@ This page highlights selected academic publications by members of the **Vietnam 
 
 **Forthcoming**
 
+- **Nguyen-Huu, T.T.**, **Pham, N.S.**, FDI versus R&D in an endogenous growth model, *Journal of Public Economic Theory*.
+- **Pham, N.S.**, The relationship between general equilibrium models with infinite-lived agents and overlapping generations models, and some applications, *Mathematical Social Sciences*.
 - Nguyen-Anh T., **Nguyen-Van, P.**, To-The N. Farmers’ Preferences and Attitudes in Conversion to Organic Farming: A Lab-in-the-Field Experiment, *Ecological Economics*.
 - Gourdel, P., **Le Van, C.**, **Pham, N.-S.**, Tran-Viet, C. "Hartman-Stampacchia theorem, Gale-Nikaidô-Debreu lemma, and Brouwer and Kakutani fixed-point theorems", *Journal of Optimization Theory and Applications*.
 - **Pham, N.-S.**, Toda, A.A. "Comment on 'Asset Bubbles and Overlapping Generations' ", *Econometrica*.
