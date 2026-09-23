@@ -19,6 +19,7 @@ permalink: /media/
   
 **Tiếng Việt**
 
+- **Phạm Thị Kim Cương** (2026), [Vì sao giàu hơn chưa chắc hạnh phúc hơn?](https://tiasang.com.vn/vi-sao-giau-hon-chua-chac-hanh-phuc-hon-5121894.html), *Tia Sáng*, 19.9.2026.
 - Nguyễn Ngọc Anh, **Lê Văn Cường**, **Phạm Thị Kim Cương**, Tô Thế Nguyên, **Nguyễn Văn Phú**, **Phạm Ngọc Sáng**, **Nguyễn Hữu Thành Tâm** (2026), [Phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số - nền tảng của mô hình tăng trưởng mới ở Việt Nam](https://www.tapchicongsan.org.vn/en_US/web/guest/quoc-phong-an-ninh-oi-ngoai1/-/2018/1259402/phat-trien-khoa-hoc%2C-cong-nghe%2C-doi-moi-sang-tao-va-chuyen-doi-so---nen-tang-cua-mo-hinh-tang-truong-moi-o-viet-nam.aspx), *Tạp Chí Cộng Sản*, 30.06.2026. [**Liên kết đến bản thảo đầy đủ chi tiết trước khi biên tập**](https://voef-observatory.github.io/assets/pdf/Mo hinh tang truong moi - kinh te Viet Nam TCCS.pdf) / [**Bản thảo trên HAL**](https://hal.science/hal-05733251)
 - **Phạm Thị Kim Cương**, **Lê Văn Cường** (2026), [Để VN có đại học trong top 300 thế giới giai đoạn 2045-2050](https://thanhnien.vn/de-vn-co-dai-hoc-trong-top-300-the-gioi-giai-doan-2045-2050-185260507201817658.htm), *Thanh Niên*, 8.5.2026.
 - **Nguyễn Văn Phú**, Tô Thế Nguyên (2026), [Dự báo tăng trưởng kinh tế Việt Nam năm 2026, triển vọng cho tăng trưởng 2 con số](https://anninhthudo.vn/du-bao-tang-truong-kinh-te-viet-nam-nam-2026-trien-vong-cho-tang-truong-2-con-so-post636857.antd), *An Ninh Thủ Đô*, 30.1.2026.
